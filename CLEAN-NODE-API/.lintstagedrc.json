@@ -1,0 +1,6 @@
+{
+    "*.ts":[
+        "eslint 'CLEAN-NODE-API/src/**' --fix",
+        "git add"
+    ]
+}
